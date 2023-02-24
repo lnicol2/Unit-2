@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "United States",
+          "Rate_2014": 4.39,
+          "Rate_2015": 4.89,
+          "Rate_2016": 5.33,
+          "Rate_2017": 5.26,
+          "Rate_2018": 4.95,
+          "Rate_2019": 4.94,
+          "Rate_2020": 6.28
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.999668,
+            39.715956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Switzerland",
+          "Rate_2014": 0.5,
+          "Rate_2015": 0.69,
+          "Rate_2016": 0.54,
+          "Rate_2017": 0.53,
+          "Rate_2018": 0.59,
+          "Rate_2019": 0.54,
+          "Rate_2020": 0.54
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.509687,
+            46.730219
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "South Africa",
+          "Rate_2014": 32.64,
+          "Rate_2015": 33.71,
+          "Rate_2016": 33.83,
+          "Rate_2017": 35.67,
+          "Rate_2018": 36.4,
+          "Rate_2019": 36.42,
+          "Rate_2020": 33.46
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.666291,
+            -29.708985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Russia",
+          "Rate_2014": 11.42,
+          "Rate_2015": 11.48,
+          "Rate_2016": 10.92,
+          "Rate_2017": 9.13,
+          "Rate_2018": 8.21,
+          "Rate_2019": 7.68,
+          "Rate_2020": 7.33
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            93.884016,
+            63.314401
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Paraguay",
+          "Rate_2014": 8.76,
+          "Rate_2015": 9.22,
+          "Rate_2016": 9.87,
+          "Rate_2017": 7.88,
+          "Rate_2018": 7.14,
+          "Rate_2019": 7.86,
+          "Rate_2020": 6.74
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.13994,
+            -21.686079
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Panama",
+          "Rate_2014": 15.48,
+          "Rate_2015": 11.87,
+          "Rate_2016": 10.03,
+          "Rate_2017": 9.67,
+          "Rate_2018": 9.39,
+          "Rate_2019": 11.3,
+          "Rate_2020": 11.12
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.338454,
+            8.72491
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Mongolia",
+          "Rate_2014": 7.24,
+          "Rate_2015": 7.14,
+          "Rate_2016": 6.02,
+          "Rate_2017": 6.13,
+          "Rate_2018": 6.18,
+          "Rate_2019": 6.36,
+          "Rate_2020": 5.98
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.159557,
+            45.99339
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Mexico",
+          "Rate_2014": 16.63,
+          "Rate_2015": 17.04,
+          "Rate_2016": 19.91,
+          "Rate_2017": 25.71,
+          "Rate_2018": 29.07,
+          "Rate_2019": 28.74,
+          "Rate_2020": 28.37
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.289691,
+            23.920061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Malta",
+          "Rate_2014": 1.39,
+          "Rate_2015": 0.92,
+          "Rate_2016": 1.15,
+          "Rate_2017": 2.06,
+          "Rate_2018": 1.59,
+          "Rate_2019": 1.14,
+          "Rate_2020": 1.59
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.431432,
+            35.888972
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Lithuania",
+          "Rate_2014": 5.35,
+          "Rate_2015": 5.87,
+          "Rate_2016": 5.29,
+          "Rate_2017": 4.53,
+          "Rate_2018": 4.57,
+          "Rate_2019": 3.44,
+          "Rate_2020": 3.71
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.089932,
+            55.103703
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Brazil",
+          "Rate_2014": 29.43,
+          "Rate_2015": 28.43,
+          "Rate_2016": 29.66,
+          "Rate_2017": 30.67,
+          "Rate_2018": 26.69,
+          "Rate_2019": 20.86,
+          "Rate_2020": 20.64
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.542449,
+            -11.928923
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Morocco",
+          "Rate_2014": 1.04,
+          "Rate_2015": 1.24,
+          "Rate_2016": 1.69,
+          "Rate_2017": 2.14,
+          "Rate_2018": 1.42,
+          "Rate_2019": 1.72,
+          "Rate_2020": 1.32
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -7.189711,
+            31.649504
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Australia",
+          "Rate_2014": 1.03,
+          "Rate_2015": 0.99,
+          "Rate_2016": 0.94,
+          "Rate_2017": 0.85,
+          "Rate_2018": 0.89,
+          "Rate_2019": 0.89,
+          "Rate_2020": 0.87
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            134.050443,
+            -23.992438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "India",
+          "Rate_2014": 3.66,
+          "Rate_2015": 3.39,
+          "Rate_2016": 3.2,
+          "Rate_2017": 3.06,
+          "Rate_2018": 3.03,
+          "Rate_2019": 2.96,
+          "Rate_2020": 2.95
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            79.132924,
+            22.412321
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Country": "Guyana",
+          "Rate_2014": 19.52,
+          "Rate_2015": 19.42,
+          "Rate_2016": 18.41,
+          "Rate_2017": 14.83,
+          "Rate_2018": 14.25,
+          "Rate_2019": 17.37,
+          "Rate_2020": 19.96
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.912352,
+            5.121996
+          ]
+        }
+      }
+    ]
+  }
