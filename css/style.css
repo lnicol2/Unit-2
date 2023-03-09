@@ -1,18 +1,44 @@
-#map{
-    height: 500px
-    
+.leaflet-popup-content p {
+    margin: 0.8em 0;
 }
-#panel {    
-    width: 16%;    
-    padding: 20px;
+
+
+#map{
+    height: 500px;
+    width: 100%;
     display: inline-block;
-    vertical-align: top;
-    text-align: center;
-    line-height: 42px;
+
+}
+body{
+    margin:0;
+    height: 80%;
+}
+
+
+
+
+#panel {  
+    width: 25%;  
+    padding: 30px;  
+    display: inline-block;  
+    vertical-align: top;  
+    text-align: center;  
+    line-height: 42px;  
+}  
+
+.sequence-control-container {
+    width: 350px;  
+    height: 30px;  
+    background-color: rgba(242, 97, 97, 0.8);  
+    padding: 10px;  
+    line-height: 45px;  
+    text-align: center;  
+    border: solid rgb(34, 26, 26) 1px;
 }
 
 .range-slider {  
     width: 55%;  
+    
 }  
 
 .step {  
@@ -21,7 +47,24 @@
 
 .step img {  
     width: 100%;  
-}
+} 
+#forward {
+    float: right;
+    }
 #reverse {  
     float: left;  
+}
+
+.legend-control-container{
+    width: 150px;
+    height: 200px;
+    font-weight: bold;
+    background-color: rgba(159, 52, 52, 0.8);
+    padding: 10px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+.legend-control-container p{
+    margin: 0;
 }

@@ -21,7 +21,7 @@ function createMap(){
 //function to retrieve the data and place it on the map
 function getData(){
     //load the data
-    fetch("data/CrimeRates.geojson")
+    fetch("data/crimeRates.geojson")
         .then(function(response){
             return response.json();
         })
@@ -39,9 +39,9 @@ function getData(){
         .then(function(json){            
             //create marker options
             var geojsonMarkerOptions = {
-                radius: 8,
-                fillColor: "#ff7800",
-                color: "#000",
+                radius: 6000,
+                fillColor: "#red",
+                color: "red",
                 weight: 1,
                 opacity: 1,
                 fillOpacity: 0.8
